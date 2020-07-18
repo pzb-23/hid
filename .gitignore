@@ -1,0 +1,29 @@
+/shhd/WEB-INF/classes# 忽略根目录下classes目录下所有文件
+/shhd/WEB-INF/config/msg# 忽略根目录下msg目录下所有文件
+/shhd/WEB-INF/config/spring# 忽略根目录下spring目录下所有文件
+*.class
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/service/PageService.class
+shhd/WebContent/WEB-INF/config/msg/global.xml
+shhd/WebContent/WEB-INF/config/spring/applicationContext.xml
+shhd/WebContent/WEB-INF/config/spring/springmvc-servlet.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/service/PageService.class
+shhd/WebContent/WEB-INF/config/spring/applicationContext.xml
+*.class
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/service/PageService.class
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/Utils.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/RegionMapper.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/ProblemActMapper.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/OrgBoundaryMapper.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/HidStationLine.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/HidOrgMapper.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/HidActivityAttachMapper.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/ActivityMapper.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/ActivityAttachMapper.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/service/PageService.class
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/OrgBoundaryMapper.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/mapping/HidOrgMapper.xml
+shhd/WebContent/WEB-INF/config/msg/global.xml
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/service/PageService.class
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/service/PageService.class
+shhd/WebContent/WEB-INF/classes/bjtu/shhd/service/PageService.class
+shhd/WebContent/WEB-INF/config/msg/global.xml
